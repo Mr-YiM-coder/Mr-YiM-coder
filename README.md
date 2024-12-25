@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Mr-YiM-coder
 - 👀 I’m interested in AI and Game Engines
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me kryptoguiyi@gmail.com
-- 😄 Pronouns: I am a programer
+- 📫 How to reach me: kryptoguiyi@gmail.com
 - ⚡ Fun fact: I know python
 
 <!---
